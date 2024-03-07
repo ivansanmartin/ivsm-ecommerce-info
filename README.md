@@ -4,9 +4,14 @@ ivsm-ecommerce, como en su nombre lo dice, es un mercado electrónico realizado 
 
 # Features
 
-+ ...
-+ ...
-+ ...
++ Comercio electrónico.
++ Soporte de chat | Cliente - Equipo.
++ Panel Administrativo.
++ Reglas de permisos para cuentas del equipo.
++ Integración con Google (Inicio de sesión | Registros).
++ Múltiples métodos de pago (WebPay, MercadoPago...).
++ Comercio electrónico separado del panel administrativo.
++ Orquestación con Kubernetes.
   
 # Database normalization (1FN | 2FN | 3FN)
 
