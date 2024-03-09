@@ -15,31 +15,32 @@ ivsm-ecommerce, como en su nombre lo dice, es un mercado electrónico realizado 
   
 # E-COMMERCE \ Database normalization (1FN | 2FN | 3FN)
 
+[adminpanel-normalization-db.xlsx](https://github.com/ivansanmartin/ivsm-ecommerce/files/14547849/adminpanel-normalization-db.xlsx)
 
-[normalization-db.xlsx](https://github.com/ivansanmartin/ivsm-ecommerce/files/14527863/normalization-db.xlsx)
 
 Preview:
 
-![preview-normalization-db](https://github.com/ivansanmartin/ivsm-ecommerce/assets/54847509/99e2f88e-8b2b-4a67-9298-535315068662)
-
+![preview-ecommerce-normalization-db](https://github.com/ivansanmartin/ivsm-ecommerce/assets/54847509/720a4647-da3c-4105-8c38-7e613f5b6af0)
 
 
 # E-COMMERCE \ Relational Diagram of Database
 
-![relational-model-db](https://github.com/ivansanmartin/ivsm-ecommerce/assets/54847509/71424b0c-5b50-497b-8e65-6ba50533dbc7)
+![ecommerce-relational-model-db](https://github.com/ivansanmartin/ivsm-ecommerce/assets/54847509/7326ae77-cd5d-4dad-9514-fa859edbb13c)
 
 
 # ADMIN-PANEL \ Database Normalization (1FN | 2FN | 3FN)
 
-[adminpanel-normalization-db.xlsx](https://github.com/ivansanmartin/ivsm-ecommerce/files/14529988/adminpanel-normalization-db.xlsx)
+[ecommerce-normalization-db.xlsx](https://github.com/ivansanmartin/ivsm-ecommerce/files/14547850/ecommerce-normalization-db.xlsx)
 
 Preview:
 
-![preview-normalization-adminpanel](https://github.com/ivansanmartin/ivsm-ecommerce/assets/54847509/d832d024-9eef-4982-aef0-4631db5018e2)
+![preview-adminpanel-normalization-db](https://github.com/ivansanmartin/ivsm-ecommerce/assets/54847509/90e871cb-4ee7-400b-80db-680dc6dab0b6)
+
 
 # ADMIN-PANEL \ Relational Diagram of Database
 
-![adminpanel-relational-model-db](https://github.com/ivansanmartin/ivsm-ecommerce/assets/54847509/3b60016b-a244-41a0-b3ac-4608679aa7e7)
+![adminpanel-relational-model-db](https://github.com/ivansanmartin/ivsm-ecommerce/assets/54847509/03badec4-64ee-4b1f-9519-3d40d0a38559)
+
 
 
 
