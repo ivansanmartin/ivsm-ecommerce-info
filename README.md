@@ -10,7 +10,7 @@ ivsm-ecommerce is an e-commerce marketplace I'm developing as a practice project
 
 + Administrative panel: A dedicated administrative panel for managing the store, products, orders, and users.
 
-+ Team permission rules: Granular permission rules for team members to control access to different functionalities.
++ Team permission rules: Granular permission rules for team members to control access to different functionalities in admin panel.
 
 + Google integration: Integration with Google for user authentication and registration.
 
@@ -21,6 +21,42 @@ ivsm-ecommerce is an e-commerce marketplace I'm developing as a practice project
 + Docker development: Development using Docker containers for a consistent and reproducible development environment.
 
 + Kubernetes orchestration in production: Orchestration with Kubernetes for managing and scaling the application in production.
+
+# Architecture
+
+The ivsm-ecommerce project follows a microservices architecture, where different components are organized into separate services. This architecture promotes modularity, scalability, and maintainability of the application. The main microservices in this project are:
+
++ ivsm-ecommerce-client: Frontend client application.
++ ivsm-ecommerce-server: Backend server for handling business logic and data.
++ ivsm-ecommerce-panel: Admin panel for managing the store, products, orders, and users.
+
+This approach allows for independent development, deployment, and scaling of each service, providing flexibility and agility in the development process.
+
+# Technologies
+
+## Database Management Systems (DBMS):
+
++ PostgreSQL: Employed as the main relational database managed with pgAdmin.
++ MongoDB: Utilized for NoSQL data storage, managed with MongoDB Compass.
++ Redis: Used for caching purposes, managed with The Another Redis Desktop.
+  
+## Development Tools
+
++ Backend Framework: NestJS.
++ Client Framework: Astro.
++ Admin Panel Framework: Currently under selection.
+  
+This technology stack forms the backbone of the ivsm-ecommerce project, providing robustness, scalability, and flexibility throughout development and deployment processes.
+
+# Development and Deployment
+
+## Docker Development
+
+Docker is utilized for local development, ensuring a consistent and reproducible environment across different development machines. Docker simplifies dependency management, making development workflows smoother.
+
+## Kubernetes Orchestration in Production
+
+For production deployment, Kubernetes is relied upon. Kubernetes enables efficient management of scalability, deployment, and resources in the production environment. This ensures high availability and reliability for the ivsm-ecommerce platform, meeting the demands of modern e-commerce applications.
   
 # E-COMMERCE \ Database normalization (1FN | 2FN | 3FN)
 
