@@ -27,14 +27,22 @@ ivsm-ecommerce is an e-commerce marketplace I'm developing as a practice project
 The ivsm-ecommerce project follows a microservices architecture, where different components are organized into separate services. This architecture promotes modularity, scalability, and maintainability of the application. The main microservices in this project are:
 
 + ivsm-ecommerce-client: Frontend client application.
+  
+  + Repository: [Click Here](https://github.com/ivansanmartin/ivsm-ecommerce-client)
+
 + ivsm-ecommerce-server: Backend server for handling business logic and data.
+  
+  + Repository: [Click Here](https://github.com/ivansanmartin/ivsm-ecommerce-server)
+    
 + ivsm-ecommerce-panel: Admin panel for managing the store, products, orders, and users.
+  
+  + Repository: [Click Here](https://github.com/ivansanmartin/ivsm-ecommerce-panel)
 
 This approach allows for independent development, deployment, and scaling of each service, providing flexibility and agility in the development process.
 
 # Technologies
 
-## Database Management Systems (DBMS):
+## DBMS:
 
 + PostgreSQL: Employed as the main relational database managed with pgAdmin.
 + MongoDB: Utilized for NoSQL data storage, managed with MongoDB Compass.
