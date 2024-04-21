@@ -1,5 +1,27 @@
 # ivsm-ecommerce - `IN DEVELOPMENT` | `EN DESARROLLO`
 
+# Index
+
+1. [Project Overview](#ivsm-ecommerce---in-development--en-desarrollo)
+2. [Features](#features)
+3. [Architecture](#architecture)
+    1. [Microservices](#microservices)
+4. [Technologies](#technologies)
+    1. [DBMS](#dbms)
+    2. [Development Tools](#development-tools)
+5. [Development and Deployment](#development-and-deployment)
+    1. [Docker Development](#docker-development)
+    2. [Kubernetes Orchestration in Production](#kubernetes-orchestration-in-production)
+6. [E-COMMERCE](#e-commerce--database-normalization-1fn--2fn--3fn)
+    1. [Database Normalization](#e-commerce--database-normalization-1fn--2fn--3fn)
+    2. [Relational Diagram of Database](#e-commerce--relational-diagram-of-database)
+    3. [DDL](#e-commerce--ddl)
+7. [ADMIN-PANEL](#admin-panel--database-normalization-1fn--2fn--3fn)
+    1. [Database Normalization](#admin-panel--database-normalization-1fn--2fn--3fn)
+    2. [Relational Diagram of Database](#admin-panel--relational-diagram-of-database)
+    3. [DDL](#admin-panel--ddl)
+
+
 ivsm-ecommerce is an e-commerce marketplace I'm developing as a practice project to apply different technologies.
 
 # Features
@@ -25,6 +47,8 @@ ivsm-ecommerce is an e-commerce marketplace I'm developing as a practice project
 # Architecture
 
 The ivsm-ecommerce project follows a microservices architecture, where different components are organized into separate services. This architecture promotes modularity, scalability, and maintainability of the application. The main microservices in this project are:
+
+## Microservices
 
 + ivsm-ecommerce-client: Frontend client application.
   
