@@ -129,7 +129,7 @@ Preview:
 
 This is the dedicated DDL for creating all the necessary tables for the ivsm-ecommerce administrative panel `(THIS DDL MAY CHANGE, REMEMBER THAT IT IS UNDER DEVELOPMENT)`
 
-[![gists-readme](https://gists-readme.yizack.com/api/pin?user=&id=9da40b46b7160c8383db756842d4114a&owner=true&theme=dark)](https://gists-readme.yizack.com/api/pin?user=&id=9da40b46b7160c8383db756842d4114a&owner=true&theme=dark)
+[![gists-readme](https://gists-readme.yizack.com/api/pin?user=&id=9da40b46b7160c8383db756842d4114a&owner=true&theme=dark)](https://gist.github.com/ivansanmartin/9da40b46b7160c8383db756842d4114a)
 
 
 
